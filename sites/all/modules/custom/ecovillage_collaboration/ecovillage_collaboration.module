@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Ecovillage Collaboration feature.
+ */
+
+include_once 'ecovillage_collaboration.features.inc';
